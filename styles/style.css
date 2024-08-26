@@ -130,4 +130,10 @@ body {
     .cards-wrapper {
         display: flex;
     }
+    .card-Sedan {
+        border-radius: 0.4rem 0 0 0.4rem;
+    }
+    .card-Luxury {
+        border-radius: 0 0.4rem 0.4rem 0;
+    }
 }
